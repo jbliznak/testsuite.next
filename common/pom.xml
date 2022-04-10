@@ -22,6 +22,7 @@
         <groupId>org.jboss.hal</groupId>
         <artifactId>hal-testsuite</artifactId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>hal-testsuite-common</artifactId>
